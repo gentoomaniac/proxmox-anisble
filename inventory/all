@@ -1,0 +1,3 @@
+[proxmox]
+sto-proxmox-a1.sto.gentoomaniac.net ansible_user=root
+sto-proxmox-a2.sto.gentoomaniac.net ansible_user=root

@@ -1,0 +1,5 @@
+---
+telegraf_domain: sto.gentoomaniac.net
+influx_url: https://influxdb.srv.gentoomaniac.net:8086
+influx_username: telegraf
+influx_pw: "{{ lookup('env', 'INFLUX_PW') }}"
